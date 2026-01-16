@@ -2,6 +2,9 @@ oh_modules/
 entry/build/
 build/
 out/
+.hvigor/
+.trae/
+.shared/
 .DS_Store
 .idea/
 .vscode/
@@ -10,4 +13,3 @@ local.properties
 *.log
 hvigor/cache/
 hvigor/output/
-
