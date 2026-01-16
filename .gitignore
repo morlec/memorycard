@@ -1,0 +1,13 @@
+oh_modules/
+entry/build/
+build/
+out/
+.DS_Store
+.idea/
+.vscode/
+local.properties
+*.iml
+*.log
+hvigor/cache/
+hvigor/output/
+
