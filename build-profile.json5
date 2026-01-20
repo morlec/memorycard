@@ -1,19 +1,7 @@
 {
   "app": {
     "signingConfigs": [
-      {
-        "name": "default",
-        "type": "HarmonyOS",
-        "material": {
-          "storeFile": "/Users/chenxiaoqiang/DevEcoStudioProjects/myCerFile/release-file/mc-release.p12",
-          "storePassword": "00000019B76BE52F112F21A05581E225FDC61EB341F2F275CC24A14D3366091F4AFBE06FC2F5B3E732",
-          "keyAlias": "McReleaseFile",
-          "keyPassword": "00000019DA4095576486C8E2DCF231D0FAE902289A9434F9F88758D894A93F6AD8D6C29D4EEB34E4F0",
-          "signAlg": "SHA256withECDSA",
-          "profile": "/Users/chenxiaoqiang/DevEcoStudioProjects/myCerFile/release-file/Production_equipment_distributionRelease.p7b",
-          "certpath": "/Users/chenxiaoqiang/DevEcoStudioProjects/myCerFile/release-file/app-release2.cer"
-        }
-      }
+      
     ],
     "products": [
       {
