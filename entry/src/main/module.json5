@@ -14,7 +14,7 @@
     "requestPermissions": [
       {
         "name": "ohos.permission.INTERNET",
-        "reason": "$string:module_desc"
+        "reason": "$string:permission_internet_reason"
       }
     ],
     "abilities": [

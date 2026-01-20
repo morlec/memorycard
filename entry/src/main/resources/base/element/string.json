@@ -2,15 +2,19 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "module description"
+      "value": "记忆大师入口模块"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "记忆大师主界面"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "记忆大师"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "用于访问网络以生成AI卡片内容"
     }
   ]
 }
